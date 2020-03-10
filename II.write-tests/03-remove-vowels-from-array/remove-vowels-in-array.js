@@ -14,3 +14,23 @@ module.exports = removeVowelsForWords;
     input: ["Irina", "Etza", "Daniel"]
     expected output: ["rn", "tz", "Dnl"]
 */
+//*****Output  of the Program****/
+/*
+    Expected value to equal:
+      ["rn", "tz", "Dnl"]
+    Received:
+      ["__i_a", "___a", "_a_ie_"]
+    
+    Difference:
+    
+    - Expected
+    + Received
+    
+      Array [
+    -   "rn",
+    -   "tz",
+    -   "Dnl",
+    +   "__i_a",
+    +   "___a",
+    +   "_a_ie_",
+      ]*/

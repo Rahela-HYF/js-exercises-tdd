@@ -29,3 +29,10 @@ module.exports = removeVowels;
 
   what is the value of result?
 */
+//****Output of the program */
+  /*Expected value to equal:
+    "sml"
+  Received:
+    "_a_ue_"
+*\************************ */
+     
